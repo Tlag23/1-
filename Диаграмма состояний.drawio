@@ -1,9 +1,76 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0 (Edition 360-1)" version="24.8.8">
   <diagram name="Страница — 1" id="axJ2qb1OFG-lA2MnpqJK">
-    <mxGraphModel>
+    <mxGraphModel dx="1233" dy="625" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BT_EA1Lm7mCwIWJbbkjm-2" target="BT_EA1Lm7mCwIWJbbkjm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-7" value="Создание деталей" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BT_EA1Lm7mCwIWJbbkjm-6">
+          <mxGeometry x="-0.0133" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Закупка&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BT_EA1Lm7mCwIWJbbkjm-3" target="BT_EA1Lm7mCwIWJbbkjm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-9" value="Поступление деталей" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BT_EA1Lm7mCwIWJbbkjm-8">
+          <mxGeometry x="0.2073" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Отправка на цех&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BT_EA1Lm7mCwIWJbbkjm-4" target="BT_EA1Lm7mCwIWJbbkjm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-11" value="Создание" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BT_EA1Lm7mCwIWJbbkjm-10">
+          <mxGeometry x="0.128" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Приход с цеха&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BT_EA1Lm7mCwIWJbbkjm-5" target="BT_EA1Lm7mCwIWJbbkjm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Продажа&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BT_EA1Lm7mCwIWJbbkjm-12" target="BT_EA1Lm7mCwIWJbbkjm-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="40" />
+              <mxPoint x="380" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-14" value="Создание" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BT_EA1Lm7mCwIWJbbkjm-13">
+          <mxGeometry x="-0.02" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-12" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="375" y="20" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-15" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="375" y="517.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-16" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="510" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Начало&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="12.5" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-22" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Конец&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="510" width="70" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
