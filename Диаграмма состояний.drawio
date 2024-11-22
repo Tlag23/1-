@@ -7,7 +7,7 @@
         <mxCell id="BT_EA1Lm7mCwIWJbbkjm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BT_EA1Lm7mCwIWJbbkjm-2" target="BT_EA1Lm7mCwIWJbbkjm-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-7" value="Создание деталей" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BT_EA1Lm7mCwIWJbbkjm-6">
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Создание деталей&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BT_EA1Lm7mCwIWJbbkjm-6">
           <mxGeometry x="-0.0133" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -18,7 +18,7 @@
         <mxCell id="BT_EA1Lm7mCwIWJbbkjm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BT_EA1Lm7mCwIWJbbkjm-3" target="BT_EA1Lm7mCwIWJbbkjm-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-9" value="Поступление деталей" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BT_EA1Lm7mCwIWJbbkjm-8">
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Поступление деталей&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BT_EA1Lm7mCwIWJbbkjm-8">
           <mxGeometry x="0.2073" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -29,7 +29,7 @@
         <mxCell id="BT_EA1Lm7mCwIWJbbkjm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BT_EA1Lm7mCwIWJbbkjm-4" target="BT_EA1Lm7mCwIWJbbkjm-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-11" value="Создание" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BT_EA1Lm7mCwIWJbbkjm-10">
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Создание&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BT_EA1Lm7mCwIWJbbkjm-10">
           <mxGeometry x="0.128" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -51,7 +51,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-14" value="Создание" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BT_EA1Lm7mCwIWJbbkjm-13">
+        <mxCell id="BT_EA1Lm7mCwIWJbbkjm-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Создание&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BT_EA1Lm7mCwIWJbbkjm-13">
           <mxGeometry x="-0.02" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
